@@ -1,0 +1,7 @@
+C:\Users\lorenzo\Desktop\c sharp\EsMultimediale\EsMultimediale\bin\Debug\EsMultimediale.exe.config
+C:\Users\lorenzo\Desktop\c sharp\EsMultimediale\EsMultimediale\bin\Debug\EsMultimediale.exe
+C:\Users\lorenzo\Desktop\c sharp\EsMultimediale\EsMultimediale\bin\Debug\EsMultimediale.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsMultimediale\EsMultimediale\obj\Debug\EsMultimediale.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\c sharp\EsMultimediale\EsMultimediale\obj\Debug\EsMultimediale.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsMultimediale\EsMultimediale\obj\Debug\EsMultimediale.exe
+C:\Users\lorenzo\Desktop\c sharp\EsMultimediale\EsMultimediale\obj\Debug\EsMultimediale.pdb

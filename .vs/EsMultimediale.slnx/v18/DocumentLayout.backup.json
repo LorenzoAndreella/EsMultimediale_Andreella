@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esmultimediale\\esmultimediale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|solutionrelative:esmultimediale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\esmultimediale\\cvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|solutionrelative:esmultimediale\\cvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\esmultimediale\\iriproducibile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|solutionrelative:esmultimediale\\iriproducibile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\esmultimediale\\iluminosita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|solutionrelative:esmultimediale\\iluminosita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\esmultimediale\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|solutionrelative:esmultimediale\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\esmultimediale\\celementomultimediale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|solutionrelative:esmultimediale\\celementomultimediale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\esmultimediale\\caudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE0CF9F-11DE-4087-8863-6F6CD59FDF67}|EsMultimediale\\EsMultimediale.csproj|solutionrelative:esmultimediale\\caudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CAudio.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CAudio.cs",
+              "RelativeDocumentMoniker": "EsMultimediale\\CAudio.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CAudio.cs",
+              "RelativeToolTip": "EsMultimediale\\CAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:57:35.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CVideo.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CVideo.cs",
+              "RelativeDocumentMoniker": "EsMultimediale\\CVideo.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CVideo.cs",
+              "RelativeToolTip": "EsMultimediale\\CVideo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:47:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRiproducibile.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\IRiproducibile.cs",
+              "RelativeDocumentMoniker": "EsMultimediale\\IRiproducibile.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\IRiproducibile.cs",
+              "RelativeToolTip": "EsMultimediale\\IRiproducibile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:35:39.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILuminosita.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\ILuminosita.cs",
+              "RelativeDocumentMoniker": "EsMultimediale\\ILuminosita.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\ILuminosita.cs",
+              "RelativeToolTip": "EsMultimediale\\ILuminosita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:32:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CImmagine.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CImmagine.cs",
+              "RelativeDocumentMoniker": "EsMultimediale\\CImmagine.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CImmagine.cs",
+              "RelativeToolTip": "EsMultimediale\\CImmagine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:31:50.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CElementoMultimediale.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CElementoMultimediale.cs",
+              "RelativeDocumentMoniker": "EsMultimediale\\CElementoMultimediale.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\CElementoMultimediale.cs",
+              "RelativeToolTip": "EsMultimediale\\CElementoMultimediale.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:30:02.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\Program.cs",
+              "RelativeDocumentMoniker": "EsMultimediale\\Program.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsMultimediale\\EsMultimediale\\Program.cs",
+              "RelativeToolTip": "EsMultimediale\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:29:17.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
